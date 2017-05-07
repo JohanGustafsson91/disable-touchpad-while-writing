@@ -1,5 +1,5 @@
 {
-  "name": "node-es6",
+  "name": "disable-touchpad-while-writing",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "prestart": "babel src --out-dir dist",
     "start": "node dist/server.js"
   },
-  "keywords": [],
+  "keywords": ["disable touchpad node rxjs"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
